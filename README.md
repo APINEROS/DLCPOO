@@ -3,8 +3,8 @@ En su labor como programador de software ha sido elegido para el desarrollo de u
 
 ### Instrucciones de Uso
 * Ejecute la aplicación Java.
-* Ingrese la cantidad de dulces comprados
-* Ingrese la venta total
+* Ingrese la cantidad de dulces comprados.
+* Ingrese la venta total.
 * Ingrese la cantidad de ventas realizadas sobre cada dulce.
 * La aplicación calculará el promedio de ventas y lo mostrará en pantalla.
 
