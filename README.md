@@ -1,0 +1,2 @@
+## ejercicio base 
+En su labor como programador de software ha sido elegido para el desarrollo de una aplicación que necesita un coordinador para el manejo de una dulcería, que desea calcular el promedio de 3 (tres) ventas de dulces. Esta dulcería evalúa la venta de dichos dulces. Como información aparte también se debe calcular las ventas de estos mismos, el valor sobre el que se compran, el valor de venta de estos mismos y su respectiva ganancia.
