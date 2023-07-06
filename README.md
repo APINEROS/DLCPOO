@@ -1,6 +1,13 @@
 ## Ejercicio base 
 En su labor como programador de software ha sido elegido para el desarrollo de una aplicación que necesita un coordinador para el manejo de una dulcería, que desea calcular el promedio de 3 (tres) ventas de dulces. Esta dulcería evalúa la venta de dichos dulces. Como información aparte también se debe calcular las ventas de estos mismos, el valor sobre el que se compran, el valor de venta de estos mismos y su respectiva ganancia.
 
+### Instrucciones de Uso
+* Ejecute la aplicación Java.
+* Ingrese la cantidad de dulces comprados
+* Ingrese la venta total
+* Ingrese la cantidad de ventas realizadas sobre cada dulce.
+* La aplicación calculará el promedio de ventas y lo mostrará en pantalla.
+
 ### Pseudocódigo
 ~~~
 Algoritmo Dulceria
@@ -50,3 +57,6 @@ Algoritmo Dulceria
 
 FinAlgoritmo
 ~~~
+
+### Requisitos del Sistema
+* Java Development Kit (JDK) instalado en el equipo.
